@@ -1,6 +1,6 @@
-# [Project name]
+# StudyXP
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+StudyXP is a dark, growth-focused AI study companion that helps students build momentum through focused sessions, meaningful tasks, weekly reflection, and Sprig's encouragement.
 
 ## Run & Operate
 
@@ -22,23 +22,33 @@ _Replace the heading above with the project's name, and this line with one sente
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/studyxp/src/App.tsx` — StudyXP dashboard, navigation, focus timer, tasks, review, profile, and Sprig coach interactions
+- `artifacts/studyxp/src/index.css` — StudyXP visual theme and responsive component styling
+- `artifacts/studyxp/vite.config.ts` — Vite app configuration and root preview routing
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- The first release is frontend-first and uses local React state for the interactive prototype; no auth, API, or database is needed for the core experience yet.
+- StudyXP uses a single dashboard shell with view state so the app feels like one continuous companion experience across Today, Focus, Tasks, Review, and Growth.
+- Sprig is rendered as a reusable CSS mascot rather than an external image so it can animate and remain crisp at every size.
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+- Today dashboard with energy, XP, streak, weekly rhythm, plan, and Sprig coaching
+- Functional Pomodoro focus room with start, pause, reset, session progress, and XP reward
+- Task plan with completion toggles, task count, XP availability, and local add-task behavior
+- Weekly progress review with focus trend, recent wins, and next-week intention
+- Growth profile with level progress, achievements, values, and local edit interaction
+- Sprig coach panel with suggestions and local message replies
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+- Keep the product premium and emotionally motivating rather than school-administration-like.
+- Preserve the growth theme and Sprig companion as central product ideas.
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
+- The app is intentionally a local interactive first build. A future backend should preserve the existing view and interaction contracts when adding persistence.
 
 ## Pointers
 

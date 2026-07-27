@@ -1,0 +1,1 @@
+- [StudyXP product direction](studyxp-product-direction.md) — Keep the study companion emotionally centered on growth, Sprig, and meaningful daily momentum.

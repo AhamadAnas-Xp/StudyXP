@@ -1,0 +1,398 @@
+You are a senior UI/UX designer, startup founder, React developer, and AI engineer. Build a complete modern mobile-first application called "StudyXP".
+
+MISSION
+StudyXP is an AI-powered study coach that helps students grow academically through gamification, AI coaching, personalized learning, and progress tracking.
+
+Brand Message:
+"Grow Beyond Grades."
+
+The app should NOT feel like a school app.
+It should feel like a premium Apple-quality startup.
+
+--------------------------------------------------
+
+DESIGN
+
+• Modern minimal UI
+• Mobile-first
+• Dark Mode by default
+• Emerald Green + Navy Blue color palette
+• Rounded corners
+• Soft shadows
+• Smooth animations
+• Glassmorphism where appropriate
+• Beautiful gradients
+• Premium startup feel
+• Consistent spacing
+• Friendly typography
+
+--------------------------------------------------
+
+MASCOT
+
+Create a mascot named Sprig.
+
+Appearance:
+• Cute green rounded character
+• Two leaves on top
+• Big expressive eyes
+• Friendly smile
+• Floating golden star above the head
+
+Sprig appears throughout the app:
+
+• Welcomes users
+• Celebrates achievements
+• Gives study tips
+• Waves
+• Encourages users
+• Reacts to streaks
+• Appears in loading screens
+• Never feels annoying
+
+--------------------------------------------------
+
+ONBOARDING
+
+First launch asks:
+
+• Username
+• Grade
+• Age
+• Country
+• School board (CBSE, ICSE, Matriculation, IB, etc.)
+• Subjects
+• Sports
+• Hobbies
+• Current confidence level
+• Weakest subject
+• Strongest subject
+• Daily study goal
+• Exam dates
+• Preferred review day
+• Preferred study time
+
+--------------------------------------------------
+
+HOME
+
+Display:
+
+Greeting
+
+Example:
+
+"Good Evening, Buddy 👋"
+
+Sprig welcomes the user.
+
+Today's Tasks
+
+XP
+
+Current Level
+
+Study Streak
+
+Upcoming Exams
+
+Weekly Goal
+
+Quick Start Button
+
+Daily Motivation Quote
+
+--------------------------------------------------
+
+TASK SYSTEM
+
+Tasks reward XP.
+
+Examples:
+
+Homework
+
+Revision
+
+Practice Questions
+
+Mock Tests
+
+Flashcards
+
+Watching educational videos
+
+Reading chapters
+
+Completing AI challenges
+
+XP depends on difficulty.
+
+--------------------------------------------------
+
+HOMEWORK AI
+
+Students upload homework.
+
+AI:
+
+Checks answers
+
+Explains mistakes
+
+Detects recurring weak topics
+
+Suggests improvement
+
+Suggests videos
+
+Suggests practice questions
+
+--------------------------------------------------
+
+FOCUS MODE
+
+Pomodoro Timer
+
+25/5 mode
+
+Custom timers
+
+Phone distraction reminder
+
+Background sounds
+
+Session statistics
+
+--------------------------------------------------
+
+SMART AI COACH
+
+Acts like a personal coach.
+
+Examples:
+
+"I noticed you're improving in Biology."
+
+"You usually struggle on Fridays."
+
+"Math exam in 5 days.
+Let's focus there."
+
+"I believe you can reach Level 10 today."
+
+--------------------------------------------------
+
+XP SYSTEM
+
+Only meaningful work earns XP.
+
+No spamming.
+
+No cheating.
+
+No fake grinding.
+
+Rewards:
+
+XP
+
+Levels
+
+Achievements
+
+Tree Growth
+
+Coins
+
+--------------------------------------------------
+
+TREE SYSTEM
+
+Every student owns one tree.
+
+The tree grows as XP increases.
+
+Seed
+
+↓
+
+Sprout
+
+↓
+
+Small Tree
+
+↓
+
+Healthy Tree
+
+↓
+
+Ancient Tree
+
+Every stage unlocks beautiful animations.
+
+--------------------------------------------------
+
+WEEKLY REVIEW
+
+Every Friday (editable).
+
+Display:
+
+Hours Studied
+
+XP Earned
+
+Subjects Improved
+
+Strongest Subject
+
+Weakest Subject
+
+Average Focus Time
+
+Weekly Rank
+
+Concept Score (0-100)
+
+Last Week vs This Week
+
+Improvement Graph
+
+--------------------------------------------------
+
+EXAM MODE
+
+When exams approach:
+
+AI automatically changes priorities.
+
+Creates revision timetable.
+
+Suggests weakest topics.
+
+Predicts readiness.
+
+--------------------------------------------------
+
+PROFILE
+
+Avatar
+
+Tree
+
+Level
+
+Achievements
+
+Badges
+
+Statistics
+
+Study Heatmap
+
+--------------------------------------------------
+
+PREMIUM
+
+Unlimited tasks
+
+Advanced AI coaching
+
+Friend comparison
+
+Leaderboards
+
+Study groups
+
+Advanced analytics
+
+Exclusive themes
+
+--------------------------------------------------
+
+ANIMATIONS
+
+Everything feels alive.
+
+Buttons bounce.
+
+Cards slide.
+
+Progress bars animate.
+
+XP counts upward.
+
+Tree grows.
+
+Sprig waves.
+
+Stars sparkle.
+
+Leaves gently move.
+
+--------------------------------------------------
+
+OPENING ANIMATION
+
+Black screen.
+
+Golden star appears.
+
+Star releases light.
+
+Sprout grows.
+
+Sprig appears.
+
+Sprig catches the star.
+
+Plants it.
+
+StudyXP logo grows naturally.
+
+Tagline appears:
+
+"Grow Beyond Grades."
+
+Dashboard fades in.
+
+--------------------------------------------------
+
+TECH STACK
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+Framer Motion
+
+Shadcn UI
+
+Firebase Authentication
+
+Cloud Firestore
+
+Responsive Design
+
+Dark Mode
+
+Clean reusable components
+
+--------------------------------------------------
+
+FINAL GOAL
+
+Do not build a generic study planner.
+
+Build an emotional experience.
+
+The user should feel like they have a tiny AI coach growing alongside them every day.
+
+Every design decision should reinforce one idea:
+
+Growth.
